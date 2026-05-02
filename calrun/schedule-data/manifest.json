@@ -1,0 +1,5 @@
+{
+  "version": "2026-01-31",
+  "schedule_url": "https://iherdt.github.io/app-public-docs/calrun/schedule-data/caltrain_schedule.json",
+  "trips_url": "https://iherdt.github.io/app-public-docs/calrun/schedule-data/caltrain_trips.json"
+}
